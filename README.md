@@ -20,7 +20,7 @@ http://localhost:1337
 1337 is the port tha you configured for sails (by default is 1337)
 
 second window
-http://localhost:1337/emoji/create?text=something
+http://localhost:1337/emoji/create?text=write here something
 
 Expected:
 the first window must be listening everything and showing all you enter in second or thirds windows.
